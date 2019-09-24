@@ -1,0 +1,125 @@
+.form{
+
+  position:absolute;
+
+  top: 0px;
+
+	width: 400px;	
+
+	padding: 18px 5% 60px 5%;
+
+	margin: 0 0 35px 0;
+
+	background: rgb(247, 247, 247);
+
+	box-shadow:	
+
+		0pt 2px 5px rgba(105, 108, 109,  0.7),	
+
+		0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset; 
+
+		border: 1px solid rgba(147, 184, 189,0.8);
+
+		border-radius: 5px;
+
+		margin-left: 330px;
+
+}
+
+
+
+.content{
+
+  margin-bottom: 10px;
+
+}
+
+
+
+section{
+
+  margin-bottom: 10px;
+
+}
+
+
+
+#textDisplay{
+
+  font-style: oblique;
+
+  font-size: larger;
+
+  color: red;
+
+  width:40%;
+
+  height:20%;
+
+  box-shadow: 0 4px 8px 0 rgba(8,0,2,0.2);
+
+  background-color: antiquewhite;
+
+}
+
+
+
+#add{
+
+    margin-left: 150px;
+
+    height: 36px;
+
+    width: auto;
+
+}
+
+
+
+h2{
+
+  padding-left: 150px;
+
+}
+
+
+
+#field{
+
+  width: 400px;
+
+  height: 45px;
+
+}
+
+
+
+#quote{
+
+  height: 40px;
+
+  width: 400px;
+
+}
+
+
+
+#submit{
+
+  padding-left: 12px;
+
+  font-size: larger;
+
+  height: 34px;
+
+  margin-left: 120px;
+
+}
+
+
+
+section{
+
+  margin-top: 248px;
+
+}
